@@ -9,6 +9,6 @@ public class Scope {
     }
 
     static void random(){
-        System.out.println(a); //ERROR : we dont know a here
+
     }
 }

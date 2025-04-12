@@ -1,3 +1,6 @@
 1. Use the main class name in First Letter Capital
 2. Use public in class for making it public for everything
 3.  int max= Math.max(a,b) -> it will return max value between both values
+
+Declaring -> naming a datatype without value (eg. int x;)
+Initialization -> declaring a variable with value (eg. int x=10;)
