@@ -20,6 +20,7 @@ public class inputArr {
             System.out.print(arr[i]+" ");
         }
 
+        //modify
 
 
     }
